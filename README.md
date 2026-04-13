@@ -1,74 +1,103 @@
-# M.P. PAWAN CHANDER  
+# 👋 Hi, I'm Pawan Chander
+
+🎓 Final-year B.Tech AI & ML Student (2026)  
 📍 Puducherry, India  
-📞 +91 9380038184  
-📧 [pawanchander1@gmail.com](mailto:pawanchander1@gmail.com)  
-🔗 [GitHub](https://github.com/PawanPC005v) | [LinkedIn](https://www.linkedin.com/in/pawanmp05)
+📊 Data Analyst | Machine Learning Engineer | Researcher  
+
+📧 Pawanchander1@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/pawanmp05)  
+💻 [GitHub](https://github.com/PawanPC005v)  
 
 ---
 
-## 🎯 Summary
+## 🧠 About Me
 
-Data Analyst with proficiency in Python, SQL, and data visualization tools. Experienced in statistical analysis and machine learning to support data-driven decision-making. Committed to applying analytical skills to contribute to team objectives and deliver actionable business insights.
+I don’t just build models — I **break them, optimize them, and explain them**.
 
----
-
-## 💼 Project Experience
-
-### 🔹 Full-Spectrum Business Analytics Dashboard  
-**Technologies:** Snowflake, Power Query, DAX, Power BI  
-- Designed a Snowflake schema in MySQL and developed stored procedures for sales analytics.  
-- Integrated MySQL and Excel data into Power BI, performed transformations in Power Query.  
-- Built interactive dashboards using DAX and KPIs; automated refresh with Power BI Gateway.  
-- [GitHub](https://github.com/PawanPC005v/Full-Spectrum-Business-Analytics-Dashboard)
-
-### 🔹 Credit Risk Modelling  
-**Technologies:** Python, EDA, ML  
-- Conducted EDA and feature engineering, improving model accuracy by 5%.  
-- Built predictive ML models for credit risk mitigation.  
-- [GitHub](https://github.com/PawanPC005v/Credit-Risk-Prediction-Training-and-EDA.git)
-
-### 🔹 LegitiCheck: An Ensemble Model for Fake Profile Detection  
-**Technologies:** Python, NLP, Web-scraping (BeautifulSoup)  
-- Performed behavior-based feature engineering and boosted model accuracy by 7%.  
-- Developed an XGBoost + MLP ensemble classifier.  
-- [GitHub](https://github.com/PawanPC005v/LegitiCheck-An-Ensemble-Model-for-Fake-Profile-Detection.git)
+- 📄 IEEE Published Researcher (Fake Profile Detection)
+- 🤖 Built ML/DL models on datasets with **50,000+ records**
+- 📈 Achieved **92–93% accuracy** across multiple ML pipelines
+- 🧩 Strong focus on **feature engineering & problem framing**
+- 🎯 Passionate about **teaching & simplifying complex concepts**
 
 ---
 
-## 👨‍💻 Professional Experience
+## ⚙️ Tech Stack
 
-### Machine Learning Intern – *Data Science & AI*  
-**Corizo** | *Feb 2024 – Mar 2024*  
-- Implemented supervised and unsupervised ML models end-to-end.  
-- Applied data preprocessing, evaluation metrics, and hyperparameter tuning.  
-- Used Python, Pandas, Scikit-learn, Matplotlib on real-world datasets.  
-- Collaborated in capstone projects and participated in workshops.
+**Languages & Tools**  
+`Python` `SQL` `MySQL` `C` `Java` `Jupyter` `Excel` `Power BI`
+
+**ML & Data**  
+`Scikit-learn` `XGBoost` `PyTorch` `Pandas` `NumPy`  
+`Matplotlib` `Seaborn` `RDKit` `NLP`
+
+**Core Skills**  
+- Feature Engineering  
+- EDA (Exploratory Data Analysis)  
+- Data Visualization  
+- Model Optimization  
+- Analytical Problem Solving  
 
 ---
 
-## 🛠 Skills
+## 🔬 Projects
 
-**Analytical Tools:** Power BI, MySQL, Excel  
-**Programming:** SQL, Python, NumPy, Pandas, Matplotlib, Seaborn  
-**Tech Skills:** Data Wrangling, Cleaning, Modeling, Visualization, Statistical Analysis  
-**Soft Skills:** Cross-functional collaboration, Technical & non-technical communication, Business domain understanding  
+### 🧪 Accelerating Drug Discovery via Molecular Generation
+- Generated **~45,000 molecules** using RL + ORGAN
+- Built validation pipeline for **~10,000 molecules (RDKit)**
+- Achieved:
+  - ✅ >92% validity  
+  - ✅ ~88% property compliance  
+- Improved diversity by **15% using entropy-regularized loss**
+- Potential to reduce discovery cycle by **1–2 years**
+
+---
+
+### 🔍 LegitiCheck — Fake Profile Detection (IEEE Published)
+- Built **XGBoost + MLP ensemble**
+- Achieved **93% accuracy**
+- Feature engineering alone boosted performance by **7%**
+- Published in IEEE Xplore  
+  📄 DOI: 10.1109/ACCESS.2024.11209756  
+
+---
+
+## 💼 Experience
+
+### 🧑‍💻 Machine Learning Intern — Corizo
+📅 Feb 2024 – Apr 2024  
+
+- Trained **5+ ML models** on real-world datasets  
+- Improved performance by **10% through model selection & tuning**  
+- Built reusable preprocessing pipelines  
+- Compared models (LR, DT, RF, XGBoost) for best fit  
 
 ---
 
 ## 📜 Certifications
 
-- SQL for Data Analysis – *Coursera*  
-- Python for Data Science – *Great Learning*  
-- Microsoft Power BI – *Alison*  
-- Data Visualization using Python – *Great Learning*  
-- Statistics for Machine Learning – *Great Learning*  
+- SQL for Data Analysis — Coursera  
+- Data Science 101 — IBM SkillsBuild 
+- Microsoft Power BI — Alison  
+- Data Visualization using Python — Great Learning  
+- Statistics for ML — Great Learning  
 
 ---
 
-## 🎓 Education
+## 🎯 What I’m Focused On
 
-**B.Tech in Artificial Intelligence and Machine Learning**  
-Manakula Vinayagar Institute of Technology | *2022 – 2026*
+- Building **real-world ML systems (not just notebooks)**
+- Improving **model explainability**
+- Scaling from **projects → production-ready systems**
+- Teaching & mentoring in ML/Data Science  
 
-**Higher Secondary Education**  
-Petit Seminaire Higher Secondary School, Puducherry | *2020 – 2022*
+---
+
+## 📬 Let's Connect
+
+If you're working on:
+- ML/AI Projects  
+- Data Analytics  
+- Research Collaboration  
+
+👉 Reach out. I care about **building things that actually work.**
