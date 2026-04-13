@@ -1,28 +1,28 @@
 # 👋 Hi, I'm Pawan Chander
 
-🎓 Final-year B.Tech AI & ML Student (2026)  
-📍 Puducherry, India  
-📊 Data Analyst | Machine Learning Engineer | Researcher  
+Final-year B.Tech AI & ML Student (2026)  
+Puducherry, India  
+Data Analyst | Machine Learning Engineer | Researcher  
 
-📧 Pawanchander1@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/pawanmp05)  
-💻 [GitHub](https://github.com/PawanPC005v)  
+Pawanchander1@gmail.com  
+[LinkedIn](https://linkedin.com/in/pawanmp05)  
+[GitHub](https://github.com/PawanPC005v)  
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I don’t just build models — I **break them, optimize them, and explain them**.
 
-- 📄 IEEE Published Researcher (Fake Profile Detection)
-- 🤖 Built ML/DL models on datasets with **50,000+ records**
-- 📈 Achieved **92–93% accuracy** across multiple ML pipelines
-- 🧩 Strong focus on **feature engineering & problem framing**
-- 🎯 Passionate about **teaching & simplifying complex concepts**
+- IEEE Published Researcher (Fake Profile Detection)
+- Built ML/DL models on datasets with **50,000+ records**
+- Achieved **92–93% accuracy** across multiple ML pipelines
+- Strong focus on **feature engineering & problem framing**
+- Passionate about **teaching & simplifying complex concepts**
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 **Languages & Tools**  
 `Python` `SQL` `MySQL` `C` `Java` `Jupyter` `Excel` `Power BI`
@@ -40,9 +40,9 @@ I don’t just build models — I **break them, optimize them, and explain them*
 
 ---
 
-## 🔬 Projects
+## Projects
 
-### 🧪 Accelerating Drug Discovery via Molecular Generation
+### Accelerating Drug Discovery via Molecular Generation
 - Generated **~45,000 molecules** using RL + ORGAN
 - Built validation pipeline for **~10,000 molecules (RDKit)**
 - Achieved:
@@ -53,7 +53,7 @@ I don’t just build models — I **break them, optimize them, and explain them*
 
 ---
 
-### 🔍 LegitiCheck — Fake Profile Detection (IEEE Published)
+### LegitiCheck — Fake Profile Detection (IEEE Published)
 - Built **XGBoost + MLP ensemble**
 - Achieved **93% accuracy**
 - Feature engineering alone boosted performance by **7%**
@@ -62,10 +62,10 @@ I don’t just build models — I **break them, optimize them, and explain them*
 
 ---
 
-## 💼 Experience
+## Experience
 
-### 🧑‍💻 Machine Learning Intern — Corizo
-📅 Feb 2024 – Apr 2024  
+### Machine Learning Intern — Corizo
+Feb 2024 – Apr 2024  
 
 - Trained **5+ ML models** on real-world datasets  
 - Improved performance by **10% through model selection & tuning**  
@@ -74,7 +74,7 @@ I don’t just build models — I **break them, optimize them, and explain them*
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - SQL for Data Analysis — Coursera  
 - Data Science 101 — IBM SkillsBuild 
@@ -84,7 +84,7 @@ I don’t just build models — I **break them, optimize them, and explain them*
 
 ---
 
-## 🎯 What I’m Focused On
+## What I’m Focused On
 
 - Building **real-world ML systems (not just notebooks)**
 - Improving **model explainability**
@@ -93,7 +93,7 @@ I don’t just build models — I **break them, optimize them, and explain them*
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 
 If you're working on:
 - ML/AI Projects  
