@@ -6,7 +6,7 @@ Data Analyst | Machine Learning Engineer | Researcher
 
 Pawanchander1@gmail.com  
 [LinkedIn](https://linkedin.com/in/pawanmp05)  
-[GitHub]([https://github.com/Pawan05-mp])  
+[GitHub](https://github.com/Pawan05-mp)  
 
 ---
 
